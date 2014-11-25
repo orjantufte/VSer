@@ -1,0 +1,27 @@
+{
+  "name": "VSer",
+  "version": "0.0.0",
+  "description": "A VSer app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orjantufte/VSer.git"
+  },
+  "keywords": [
+    "vs",
+    "app",
+    "js",
+    "angular",
+    "battle",
+    "compare"
+  ],
+  "author": "Ørjan Tufte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orjantufte/VSer/issues"
+  },
+  "homepage": "https://github.com/orjantufte/VSer"
+}
